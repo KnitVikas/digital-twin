@@ -1,0 +1,23 @@
+{
+  "full_name": "Vikas Bharadwaj",
+  "name": "Vicky",
+  "current_role": "Software Engineer",
+  "location": "Bangalore, India",
+  "email": "vikasbharadwaj2001@gmail.com",
+  "linkedin": "linkedin.com/in/vikasbharadwaj2001",
+  "specialties": [
+    "Python",
+    "Django",
+    "React",
+    "Node.js",
+    "PostgreSQL"
+  ],
+  "years_experience": 3,
+  "education": [
+    {
+      "degree": "B.Tech",
+      "institution": "Vellore Institute of Technology",
+      "year": "2023"
+    }
+  ]
+}
